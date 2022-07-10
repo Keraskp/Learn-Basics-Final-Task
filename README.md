@@ -25,6 +25,7 @@ Dependencies : openpyxl (Required for working with xlsx file)
 
 2. Once installed, clone this repository by entering the following command :
 `git clone https://github.com/Keraskp/Learn-Basics-Final-Task.git`
+You may download the main.py file only. Make sure you have a folder name `output` in the same directory.
 
 3. Open the cloned repository and run main.py :
 `python3 main.py` or `python main.py`
