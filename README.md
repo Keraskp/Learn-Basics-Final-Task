@@ -28,3 +28,11 @@ Dependencies : openpyxl (Required for working with xlsx file)
 
 3. Open the cloned repository and run main.py :
 `python3 main.py` or `python main.py`
+
+<img src="./images/input.png">
+
+Enter choice and file path as shown in the image. **Note :** The image is taken on Ubuntu. Enter file path accordingly. Finally, created files should appear in the output folder.
+
+<img src="./images/output.png">
+
+To see the implementation of the program : You can view my [Jupyter Notebook](https://github.com/Keraskp/Learn-Basics-Final-Task/blob/main/Final%20Task.ipynb)
